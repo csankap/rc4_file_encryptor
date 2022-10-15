@@ -1,3 +1,0 @@
-drop n bytes=0
-key= somethingsomething
-result file name (default:result)= 
